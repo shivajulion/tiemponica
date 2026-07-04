@@ -1,7 +1,7 @@
 html, body { margin:0; font-family: 'Poppins', sans-serif; }
 div, input, textarea { box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
 
-.pre_top { background-color:#c5221f; padding: 10px;}
+.pre_top { background-color:#1426ac; padding: 10px;}
 .top{ width: 1000px; margin:auto; }
 
 .main{ width: 1100px; margin:auto; }
@@ -44,19 +44,19 @@ h1{ font-weight:800; font-size: 40px; }
   margin: auto;
   width: 95%;
   height: 10px;
-  background-color: #c5221f;
+  background-color: #1426ac;
 }
 .naranja {
   margin: auto;
   width: 95%;
   height: 10px;
-  background-color: #c5221f;
+  background-color: #1426ac;
 }
 .negro {
   margin: auto;
   width: 95%;
   height: 10px;
-  background-color: #c5221f;
+  background-color: #1426ac;
 }
 
 .premio {
@@ -157,7 +157,7 @@ h1{ font-weight:800; font-size: 40px; }
   text-transform: uppercase;
   background-color: transparent; /* opcional */
 }
-.celeste{ background-color:#c5221f; height:30px; width:100%; }
+.celeste{ background-color:#1426ac; height:30px; width:100%; }
 
 .borde{ border-bottom: 1px solid #CCCCE6; margin: 10px 0px; width:100%; }
 .f1 {
@@ -309,12 +309,12 @@ a.b1a{ text-decoration:none; }
 a.b1a:hover{ text-decoration:underline; color:white }
 
 .rojo{
-  background-color:#c5221f;
+  background-color:#1426ac;
   color: white;
 }
 
 
 .ayer a{
-  color: #c5221f;
+  color: #1426ac;
   text-decoration: none;
 }
